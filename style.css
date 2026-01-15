@@ -427,7 +427,7 @@ mobile-warning {
  width: auto;
 }
 
-@media (max-width: 1296px) {
+@media screen and (max-width: 1300px) {
    
     main{
         display: none;
@@ -442,3 +442,4 @@ mobile-warning {
     
     
 }
+
